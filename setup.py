@@ -11,9 +11,9 @@ classifiers = [
 ]
 setup(
   name='django-ssl-smtp',
-  version='1.1.2',
+  version='2.0.0',
   description='SSL SMTP Support for Django Framework 4.0 and UP',
-  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.md').read(),
   long_description_content_type='text/markdown',
   url='https://himelrana.com',  
   author='Himel',
